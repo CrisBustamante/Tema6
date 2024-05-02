@@ -1,6 +1,5 @@
 package CheatSheet;
 
-import lombok.Data;
 
 import java.io.*;
 import java.nio.file.Path;
